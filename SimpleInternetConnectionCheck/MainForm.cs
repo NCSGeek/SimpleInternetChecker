@@ -16,12 +16,12 @@ namespace SimpleInternetConnectionCheck
     public partial class MainForm : System.Windows.Forms.Form
     {
         bool allow = true;
+        bool firstchecked = false;
         private void refreshStatus()
         {
             if (allow == true)
             {
                 Console.WriteLine("Checking internet connection...");
-                
                 allow = false;
                 try
                 {
@@ -59,11 +59,20 @@ namespace SimpleInternetConnectionCheck
 
         private void buttonRefresh(object sender, EventArgs e)
         {
+            if (firstchecked == false)
+            {
+                label1.Text = "(Click to refresh)";
+                firstchecked = true;
+            }
+            this.Cursor = Cursors.WaitCursor;
+            pictureBox1.Cursor = Cursors.WaitCursor;
             Thread thread = new Thread(refreshStatus)
             {
                 IsBackground = true
             };
             thread.Start();
+            this.Cursor = Cursors.Default;
+            pictureBox1.Cursor = Cursors.Hand;
         }
 
         public MainForm()

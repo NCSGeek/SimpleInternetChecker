@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InternetChecker.exe" size="56760">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InternetChecker.exe" size="57272">
       <assemblyIdentity name="InternetChecker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>z3uZNpX04aMjuHedlqWirtOXuenIOk1Ffg72O5F7M9w=</dsig:DigestValue>
+        <dsig:DigestValue>Ei4lFVDIWVPpN1V1hGrh38p6COyEZve+xf7NPgvTNnw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ED2HZoNER199J45Kqkr49N1SkZOsMC4DHVJTogjnnQY=</dsig:DigestValue>
+        <dsig:DigestValue>buGsadnTKoHQTjYUPM6Elc3Q7IfTC19GuaIpSS17hcA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
