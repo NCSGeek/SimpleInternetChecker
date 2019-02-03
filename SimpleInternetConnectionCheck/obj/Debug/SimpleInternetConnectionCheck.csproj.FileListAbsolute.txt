@@ -1,0 +1,13 @@
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\SimpleInternetConnectionCheck.csprojAssemblyReference.cache
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\SimpleInternetConnectionCheck.Properties.Resources.resources
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\SimpleInternetConnectionCheck.csproj.GenerateResource.cache
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\SimpleInternetConnectionCheck.csproj.CoreCompileInputs.cache
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\bin\Debug\Simple Internet Connection Check.exe.config
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\bin\Debug\Simple Internet Connection Check.exe
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\bin\Debug\Simple Internet Connection Check.pdb
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\bin\Debug\en\Simple Internet Connection Check.resources.dll
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\SimpleInternetConnectionCheck.Form.resources
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\SimpleInternetConnectionCheck.Form.en.resources
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\en\Simple Internet Connection Check.resources.dll
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\Simple Internet Connection Check.exe
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Debug\Simple Internet Connection Check.pdb

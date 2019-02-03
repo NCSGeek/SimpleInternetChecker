@@ -1,0 +1,8 @@
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Release\SimpleInternetConnectionCheck.Form.resources
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Release\InternetChecker.Properties.Resources.resources
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Release\SimpleInternetConnectionCheck.Form.en.resources
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Release\InternetChecker.csproj.GenerateResource.cache
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Release\InternetChecker.csproj.CoreCompileInputs.cache
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Release\en\InternetChecker.resources.dll
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Release\InternetChecker.exe
+C:\Program Files\Development\VS\Projects\SimpleInternetConnectionCheck\SimpleInternetConnectionCheck\obj\Release\InternetChecker.pdb
